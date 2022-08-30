@@ -1,0 +1,6 @@
+Crashes when trying to open a non image file.
+You can sometimes get the icons in the menu bar to be permanitely highlighted when they don't do anything
+When you open an image when there is alterations already applied it will open the image with the same alterations applied. (Hongyu)
+Zoom in shortcut not working. (Hongyu)
+Zoom full shortcut not working. (Hongyu)
+
